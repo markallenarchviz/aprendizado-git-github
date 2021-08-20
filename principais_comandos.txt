@@ -1,0 +1,11 @@
+git init = inicia um repositorio na pasta selecionada
+
+git add = adiciona as modificações ao "stage" para serem enviadas
+
+git commit -m = pega as modificações do "stage" e envia para a branch
+
+git checkout -b = cria uma nova branch e entra nela a mesmo tempo
+
+git pull origim = puxa os commits para o github
+
+git push origim = puxa os arquivos do github

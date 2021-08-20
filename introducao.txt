@@ -1,0 +1,1 @@
+Prendendo que o git é um sistema de versionamento utilizado no mundo inteiro para controlar a produção, bem como ajudar na colaboração entre os desenvolvedores
